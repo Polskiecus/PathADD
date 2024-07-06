@@ -4,7 +4,7 @@ A simple utility for adding in your folders to $PATH
 
 # Requirements
 
-This snippet currently only works for zsh, to check what you are running you can use neofetch utility,
+This snippet currently only works for zsh. To check what you are running you can use neofetch utility,
 f. e. by runing `neofetch | grep "zsh"` if the value returned is not empty but is zsh and a version name like
 `zsh 4.2`, you can run this.
 
