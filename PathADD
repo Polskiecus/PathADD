@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+echo 'export PATH=$PATH":'$(pwd)'"\n#added by PathADD on '$(date) >> $HOME'/.zshrc' 
+source $HOME"/.zshrc"
