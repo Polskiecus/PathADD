@@ -10,7 +10,7 @@ f. e. by runing `neofetch | grep "zsh"` if the value returned is not empty but i
 
 # Installation
 
-Step 1: Copy or download the repository code like so: `git clone https://github.com/Polskiecus/PathADD/PathADD.git`
+Step 1: Copy or download the repository code like so: `git clone https://github.com/Polskiecus/PathADD.git`
 
 Step 2: Get inside the repoository folder: `cd PathADD`
 
