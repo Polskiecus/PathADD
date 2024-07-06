@@ -14,7 +14,7 @@ Step 1: Copy or download the repository code like so: `git clone https://github.
 
 Step 2: Get inside the repoository folder: `cd PathADD`
 
-Step 3: run install script: `install.sh`(without sudo)
+Step 3: run install script: `./install.sh`(without sudo)
 
 # Usage
 
